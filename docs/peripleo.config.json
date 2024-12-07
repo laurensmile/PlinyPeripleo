@@ -5,7 +5,7 @@
     {
       "name": "Pausanias",
       "format": "LINKED_PLACES",
-      "src": "./data/pausanias-book1.jsonld",
+      "src": "./data/isfigwwid940gc.jsonld",
       "attribution": "Published by me under CC0 license</a>"
     }
   ],
