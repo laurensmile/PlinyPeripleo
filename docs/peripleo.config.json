@@ -5,7 +5,7 @@
     {
       "name": "Pausanias",
       "format": "LINKED_PLACES",
-      "src": "./data/isfigwwid940gc.jsonld",
+      "src": "./data/isfigwwid940gc.json",
       "attribution": "Published by me under CC0 license</a>"
     }
   ],
