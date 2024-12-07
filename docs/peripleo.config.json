@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Pausanias",
+      "name": "Test",
       "format": "LINKED_PLACES",
       "src": "./data/isfigwwid940gc.json",
       "attribution": "Published by me under CC0 license</a>"
