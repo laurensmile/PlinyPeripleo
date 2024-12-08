@@ -5,7 +5,7 @@
     {
       "name": "Test",
       "format": "LINKED_PLACES",
-      "src": "./data/demo-dataset.lp.json",
+      "src": "./data/pebte0ekynp6qc-2.jsonld",
       "attribution": "Published by me under CC0 license</a>"
     }
   ],
