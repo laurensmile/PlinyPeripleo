@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Test",
+      "name": "Pliny",
       "format": "LINKED_PLACES",
       "src": "./data/pebte0ekynp6qc-2.jsonld",
       "attribution": "Published by me under CC0 license</a>"
